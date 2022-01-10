@@ -1,0 +1,91 @@
+{
+  "main": {
+    "name": "Mohamed Ibrahim Sakr",
+    "occupation": "Fullstack JavaScript Developer / SDET",
+    "description": "I'm Fullstack JavaScript Developer / SDET with a great passion for technology.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Mohamed! I've been coding for over 10 years now.",
+    "contactmessage": "",
+    "email": "mohamedisakr@gmail.com",
+    "phone": "(+20) 106 3656 208",
+    "address": {
+      "street": "",
+      "city": "Cairo",
+      "state": "Cairo",
+      "zip": "",
+      "country": "Egypt"
+    },
+    "website": "https://github.com/mohamedisakr",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohamed-sakr-36a841141/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/mohamedisakr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dagestan State University - Russia",
+        "degree": "Bachelor's Degree, Computer Science (not yet)"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": ""
+      },
+      {
+        "name": "Python",
+        "level": ""
+      },
+      {
+        "name": "Git",
+        "level": ""
+      },
+      {
+        "name": "JavaScript",
+        "level": ""
+      },
+      {
+        "name": "Web Development",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
